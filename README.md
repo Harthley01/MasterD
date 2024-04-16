@@ -5,7 +5,7 @@
   <li>Harthley Fernandes Teixeira Gomes -  Função -  Realizar Projeto Java e Devops tools</li>
   <li>João Vito Santiago da Silva - Função -  Realizar DataBase e Projeto Java</li>
   <li>Guilherme Costa Batista - Função - Realizar IOT, IA e Compliance Quality</li>
-  <li>Lucas Felix Vassiliades - Fução - Realizar Mobile</li>
+  <li>Lucas Felix Vassiliades - Função - Realizar Mobile</li>
   <li>Michael Bombo Leon - Função - Realizar .net (C#)</li>
 </ul>
 
